@@ -1,7 +1,7 @@
 # Machine_learning
 Predicting Red Hat businnes value.
 <p>Task: Predict the commercial value of a person based on their activities.<p>
-<b>Link:</b>https://www.kaggle.com/c/predicting-red-hat-business-value/data
+<b>Data Link:</b>https://www.kaggle.com/c/predicting-red-hat-business-value/data
 
 <p>Structure of the notebook!</p>
 <ul>
