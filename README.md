@@ -1,5 +1,6 @@
-# Machine_learning
-Predicting Red Hat businnes value.
+
+# Predicting Red Hat businnes value.
+Machine learning project.
 <p>Task: Predict the commercial value of a person based on their activities.<p>
 <b>Data Link:</b>https://www.kaggle.com/c/predicting-red-hat-business-value/data
 
